@@ -36,7 +36,7 @@ The analysis was performed using **Power BI**, **Excel**, **Tableau**, and **MyS
 
 ### 🔹 **Page 1 – Global and Distance Insights**  
 ![High Cloud Airlines Power BI Dashboard 1](Airlines_powerbi_1.png)
-![High Cloud Airlines Excel Dashboard 1](Airlines_excel_1.png)
+![High Cloud Airlines Excel Dashboard 1](Airlines_Excel_1.png)
 
 
 **Includes:**  
